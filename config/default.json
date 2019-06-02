@@ -1,0 +1,3 @@
+{
+  "mysqlURL": "mysql://aninda:aninda@localhost/mern-stack?debug=true"
+}
